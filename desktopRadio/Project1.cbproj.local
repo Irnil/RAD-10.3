@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.749,=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.06.29 12:47:09.629,=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.06.29 12:47:10.780,=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2019.06.29 14:18:17.605,C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\desktopRadio\Unit2.h=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2019.06.29 14:18:17.605,C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\desktopRadio\Unit2.cpp=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2019.06.29 14:18:17.605,C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\desktopRadio\Unit2.dfm=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019.06.29 14:18:21.842,C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\desktopRadio\Project1PCH1.h=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2019.06.29 14:18:23.576,C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\desktopRadio\Project1.cbproj=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2019.06.29 14:51:51.433,=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\desktopRadio\bass\bass.dll</Transaction>
+    <Transaction>2019.06.29 14:51:51.453,=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\desktopRadio\bass\bass.h</Transaction>
+    <Transaction>2019.06.29 14:51:51.461,=C:\Users\Irnil\Documents\Embarcadero\Studio\Projects\desktopRadio\bass\bass.lib</Transaction>
+  </Transactions>
+</BorlandProject>
